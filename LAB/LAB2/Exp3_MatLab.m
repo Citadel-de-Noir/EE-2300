@@ -1,0 +1,60 @@
+clear
+clc
+
+T1 = readtable('X:\EE 2300\Lab2\Exp3_101G.csv');
+T2 = readtable('X:\EE 2300\Lab2\Exp3_271G.csv');
+T3 = readtable('X:\EE 2300\Lab2\Exp3_471G.csv');
+
+magH101 = T1.Magnitude_dB;
+magH221 = T2.Magnitude_dB;
+magH471 = T3.Magnitude_dB;
+
+phaseH101 = T1.Phase_Rad;
+phaseH271 = T2.Phase_Rad;
+phaseH471 = T3.Phase_Rad;
+
+figure(1)
+subplot(2,1,1)
+semilogx(T1.Frequency_Hz, magH101, 'LineWidth', 2);
+hold on;
+xlabel('Frequency (Hz)');
+ylabel('|H| (dB)');
+grid on;
+set(gca, 'fontsize', 12);
+
+
+semilogx(T2.Frequency_Hz, magH221, 'LineWidth', 2);
+xlabel('Frequency (Hz)');
+ylabel('|H| (dB)');
+grid on;
+set(gca, 'fontsize', 12);
+
+
+semilogx(T3.Frequency_Hz, magH471, 'LineWidth', 2);
+xlabel('Frequency (Hz)');
+ylabel('|H| (dB)');
+grid on;
+set(gca, 'fontsize', 12);
+
+subplot(2,1,2)
+
+semilogx(T1.Frequency_Hz, phaseH101, 'LineWidth', 2);
+hold on
+xlabel('Frequency (Hz)');
+ylabel('\angleH (deg)');
+grid on;
+set(gca, 'fontsize', 12);
+
+
+semilogx(T2.Frequency_Hz, phaseH271, 'LineWidth', 2);
+xlabel('Frequency (Hz)');
+ylabel('\angleH (deg)');
+grid on;
+set(gca, 'fontsize', 12);
+
+
+semilogx(T3.Frequency_Hz, phaseH471, 'LineWidth', 2);
+xlabel('Frequency (Hz)');
+ylabel('\angleH (deg)');
+grid on;
+set(gca, 'fontsize', 12);

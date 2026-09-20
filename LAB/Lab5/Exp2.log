@@ -1,0 +1,273 @@
+LTspice 26.0.1 for Windows
+Circuit: D:\ISU_Files\ISU_Files\SPRING_2026\EE 2300\LAB\Lab5\Exp2.net
+Start Time: Sat Mar 21 22:16:02 2026
+solver = Normal
+Maximum thread count: 28
+tnom = 27
+temp = 27
+method = trap
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-10
+Changing Tseed to 1e-12
+Changing Tseed to 1e-09
+Changing Tseed to 1e-13
+Changing Tseed to 1e-08
+Changing Tseed to 1e-14
+Changing Tseed to 1e-07
+Changing Tseed to 1e-15
+Changing Tseed to 1e-06
+Changing Tseed to 1e-16
+Changing Tseed to 1e-05
+Changing Tseed to 1e-17
+Warning: Simulation tolerance relaxed to achieve convergence from 2.5239246859340976e-03 to 2.5239246859341076e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 5.7943808860719311e-03 to 5.7943808860719415e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 8.6560301436922095e-03 to 8.6560301436922199e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643365699e-03 to 9.2692406643365803e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643365803e-03 to 9.2692406643365907e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643365907e-03 to 9.2692406643366011e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366011e-03 to 9.2692406643366115e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366115e-03 to 9.2692406643366219e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366219e-03 to 9.2692406643366324e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366324e-03 to 9.2692406643366428e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366428e-03 to 9.2692406643366532e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366532e-03 to 9.2692406643366636e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366636e-03 to 9.2692406643366740e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366740e-03 to 9.2692406643366844e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366844e-03 to 9.2692406643366948e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643366948e-03 to 9.2692406643367052e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367052e-03 to 9.2692406643367156e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367156e-03 to 9.2692406643367260e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367260e-03 to 9.2692406643367364e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367364e-03 to 9.2692406643367468e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367468e-03 to 9.2692406643367573e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367573e-03 to 9.2692406643367677e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367677e-03 to 9.2692406643367781e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367781e-03 to 9.2692406643367885e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367885e-03 to 9.2692406643367989e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643367989e-03 to 9.2692406643368093e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368093e-03 to 9.2692406643368197e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368197e-03 to 9.2692406643368301e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368301e-03 to 9.2692406643368405e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368405e-03 to 9.2692406643368509e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368509e-03 to 9.2692406643368613e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368613e-03 to 9.2692406643368717e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368717e-03 to 9.2692406643368822e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368822e-03 to 9.2692406643368926e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643368926e-03 to 9.2692406643369030e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369030e-03 to 9.2692406643369134e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369134e-03 to 9.2692406643369238e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369238e-03 to 9.2692406643369342e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369342e-03 to 9.2692406643369446e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369446e-03 to 9.2692406643369550e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369550e-03 to 9.2692406643369654e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369654e-03 to 9.2692406643369758e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369758e-03 to 9.2692406643369862e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369862e-03 to 9.2692406643369966e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643369966e-03 to 9.2692406643370071e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370071e-03 to 9.2692406643370175e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370175e-03 to 9.2692406643370279e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370279e-03 to 9.2692406643370383e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370383e-03 to 9.2692406643370487e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370487e-03 to 9.2692406643370591e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370591e-03 to 9.2692406643370695e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370695e-03 to 9.2692406643370799e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370799e-03 to 9.2692406643370903e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643370903e-03 to 9.2692406643371007e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371007e-03 to 9.2692406643371111e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371111e-03 to 9.2692406643371215e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371215e-03 to 9.2692406643371320e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371320e-03 to 9.2692406643371424e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371424e-03 to 9.2692406643371528e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371528e-03 to 9.2692406643371632e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371632e-03 to 9.2692406643371736e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371736e-03 to 9.2692406643371840e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371840e-03 to 9.2692406643371944e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643371944e-03 to 9.2692406643372048e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372048e-03 to 9.2692406643372152e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372152e-03 to 9.2692406643372256e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372256e-03 to 9.2692406643372360e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372360e-03 to 9.2692406643372464e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372464e-03 to 9.2692406643372569e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372569e-03 to 9.2692406643372673e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372673e-03 to 9.2692406643372777e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372777e-03 to 9.2692406643372881e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372881e-03 to 9.2692406643372985e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643372985e-03 to 9.2692406643373089e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373089e-03 to 9.2692406643373193e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373193e-03 to 9.2692406643373297e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373297e-03 to 9.2692406643373401e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373401e-03 to 9.2692406643373505e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373505e-03 to 9.2692406643373609e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373609e-03 to 9.2692406643373713e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373713e-03 to 9.2692406643373818e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373818e-03 to 9.2692406643373922e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643373922e-03 to 9.2692406643374026e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374026e-03 to 9.2692406643374130e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374130e-03 to 9.2692406643374234e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374234e-03 to 9.2692406643374338e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374338e-03 to 9.2692406643374442e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374442e-03 to 9.2692406643374546e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374546e-03 to 9.2692406643374650e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374650e-03 to 9.2692406643374754e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374754e-03 to 9.2692406643374858e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374858e-03 to 9.2692406643374962e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643374962e-03 to 9.2692406643375067e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375067e-03 to 9.2692406643375171e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375171e-03 to 9.2692406643375275e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375275e-03 to 9.2692406643375379e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375379e-03 to 9.2692406643375483e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375483e-03 to 9.2692406643375587e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375587e-03 to 9.2692406643375691e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375691e-03 to 9.2692406643375795e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375795e-03 to 9.2692406643375899e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643375899e-03 to 9.2692406643376003e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376003e-03 to 9.2692406643376107e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376107e-03 to 9.2692406643376211e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376211e-03 to 9.2692406643376316e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376316e-03 to 9.2692406643376420e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376420e-03 to 9.2692406643376524e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376524e-03 to 9.2692406643376628e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376628e-03 to 9.2692406643376732e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376732e-03 to 9.2692406643376836e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376836e-03 to 9.2692406643376940e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643376940e-03 to 9.2692406643377044e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377044e-03 to 9.2692406643377148e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377148e-03 to 9.2692406643377252e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377252e-03 to 9.2692406643377356e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377356e-03 to 9.2692406643377460e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377460e-03 to 9.2692406643377565e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377565e-03 to 9.2692406643377669e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377669e-03 to 9.2692406643377773e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377773e-03 to 9.2692406643377877e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377877e-03 to 9.2692406643377981e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643377981e-03 to 9.2692406643378085e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378085e-03 to 9.2692406643378189e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378189e-03 to 9.2692406643378293e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378293e-03 to 9.2692406643378397e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378397e-03 to 9.2692406643378501e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378501e-03 to 9.2692406643378605e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378605e-03 to 9.2692406643378709e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378709e-03 to 9.2692406643378814e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378814e-03 to 9.2692406643378918e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643378918e-03 to 9.2692406643379022e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379022e-03 to 9.2692406643379126e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379126e-03 to 9.2692406643379230e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379230e-03 to 9.2692406643379334e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379334e-03 to 9.2692406643379438e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379438e-03 to 9.2692406643379542e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379542e-03 to 9.2692406643379646e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379646e-03 to 9.2692406643379750e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379750e-03 to 9.2692406643379854e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379854e-03 to 9.2692406643379958e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643379958e-03 to 9.2692406643380063e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380063e-03 to 9.2692406643380167e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380167e-03 to 9.2692406643380271e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380271e-03 to 9.2692406643380375e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380375e-03 to 9.2692406643380479e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380479e-03 to 9.2692406643380583e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380583e-03 to 9.2692406643380687e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380687e-03 to 9.2692406643380791e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380791e-03 to 9.2692406643380895e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380895e-03 to 9.2692406643380999e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643380999e-03 to 9.2692406643381103e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381103e-03 to 9.2692406643381207e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381207e-03 to 9.2692406643381312e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381312e-03 to 9.2692406643381416e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381416e-03 to 9.2692406643381520e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381520e-03 to 9.2692406643381624e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381624e-03 to 9.2692406643381728e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381728e-03 to 9.2692406643381832e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381832e-03 to 9.2692406643381936e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643381936e-03 to 9.2692406643382040e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382040e-03 to 9.2692406643382144e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382144e-03 to 9.2692406643382248e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382248e-03 to 9.2692406643382352e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382352e-03 to 9.2692406643382456e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382456e-03 to 9.2692406643382561e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382561e-03 to 9.2692406643382665e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382665e-03 to 9.2692406643382769e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382769e-03 to 9.2692406643382873e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382873e-03 to 9.2692406643382977e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643382977e-03 to 9.2692406643383081e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383081e-03 to 9.2692406643383185e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383185e-03 to 9.2692406643383289e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383289e-03 to 9.2692406643383393e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383393e-03 to 9.2692406643383497e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383497e-03 to 9.2692406643383601e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383601e-03 to 9.2692406643383705e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383705e-03 to 9.2692406643383810e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383810e-03 to 9.2692406643383914e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643383914e-03 to 9.2692406643384018e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384018e-03 to 9.2692406643384122e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384122e-03 to 9.2692406643384226e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384226e-03 to 9.2692406643384330e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384330e-03 to 9.2692406643384434e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384434e-03 to 9.2692406643384538e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384538e-03 to 9.2692406643384642e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384642e-03 to 9.2692406643384746e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384746e-03 to 9.2692406643384850e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384850e-03 to 9.2692406643384954e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643384954e-03 to 9.2692406643385059e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385059e-03 to 9.2692406643385163e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385163e-03 to 9.2692406643385267e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385267e-03 to 9.2692406643385371e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385371e-03 to 9.2692406643385475e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385475e-03 to 9.2692406643385579e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385579e-03 to 9.2692406643385683e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385683e-03 to 9.2692406643385787e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385787e-03 to 9.2692406643385891e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385891e-03 to 9.2692406643385995e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643385995e-03 to 9.2692406643386099e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386099e-03 to 9.2692406643386203e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386203e-03 to 9.2692406643386308e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386308e-03 to 9.2692406643386412e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386412e-03 to 9.2692406643386516e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386516e-03 to 9.2692406643386620e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386620e-03 to 9.2692406643386724e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386724e-03 to 9.2692406643386828e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386828e-03 to 9.2692406643386932e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643386932e-03 to 9.2692406643387036e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387036e-03 to 9.2692406643387140e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387140e-03 to 9.2692406643387244e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387244e-03 to 9.2692406643387348e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387348e-03 to 9.2692406643387452e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387452e-03 to 9.2692406643387557e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387557e-03 to 9.2692406643387661e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387661e-03 to 9.2692406643387765e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387765e-03 to 9.2692406643387869e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387869e-03 to 9.2692406643387973e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643387973e-03 to 9.2692406643388077e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388077e-03 to 9.2692406643388181e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388181e-03 to 9.2692406643388285e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388285e-03 to 9.2692406643388389e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388389e-03 to 9.2692406643388493e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388493e-03 to 9.2692406643388597e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388597e-03 to 9.2692406643388701e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388701e-03 to 9.2692406643388806e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388806e-03 to 9.2692406643388910e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643388910e-03 to 9.2692406643389014e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389014e-03 to 9.2692406643389118e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389118e-03 to 9.2692406643389222e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389222e-03 to 9.2692406643389326e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389326e-03 to 9.2692406643389430e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389430e-03 to 9.2692406643389534e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389534e-03 to 9.2692406643389638e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389638e-03 to 9.2692406643389742e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389742e-03 to 9.2692406643389846e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389846e-03 to 9.2692406643389950e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643389950e-03 to 9.2692406643390055e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390055e-03 to 9.2692406643390159e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390159e-03 to 9.2692406643390263e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390263e-03 to 9.2692406643390367e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390367e-03 to 9.2692406643390471e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390471e-03 to 9.2692406643390575e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390575e-03 to 9.2692406643390679e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390679e-03 to 9.2692406643390783e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.2692406643390783e-03 to 9.2692406643390887e-03 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 9.8824511876759811e-03 to 9.8824511876759915e-03 seconds.
+Total elapsed time: 4.471 seconds.
+
+Files loaded:
+D:\ISU_Files\ISU_Files\SPRING_2026\EE 2300\LAB\Lab5\Exp2.net
+D:\ISU_Files\ISU_Files\SPRING_2026\EE 2300\LAB\Lab5\LMC660A.lib
+

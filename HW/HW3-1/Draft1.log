@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: D:\ISU Files\ISU Files\SPRING 2026\EE 2300\HW\HW3-1\Draft1.net
+Start Time: Sun Mar  1 18:21:33 2026
+solver = Normal
+Maximum thread count: 28
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.114 seconds.
+
+Files loaded:
+D:\ISU Files\ISU Files\SPRING 2026\EE 2300\HW\HW3-1\Draft1.net
+D:\ISU Files\ISU Files\SPRING 2026\EE 2300\LAB\LAB3\LMC660A.lib
+
